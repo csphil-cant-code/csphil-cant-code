@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Philip Pareñas!
 
-<!--
-**csphil-cant-code/csphil-cant-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science Student**
+🚀 Exploring new technologies and improving my coding skills one step at a time.
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Computer Science Student
+* 📚 Currently learning Programming and Software Development
+* 💡 Interested in building projects and learning new technologies
+* 🛠️ Still growing my skills through practice and hands-on projects
+* 🎯 Goal: Become a better developer every day
+
+### 📖 Currently Learning
+
+* 💻 Programming
+* 🌐 Web Development
+* 🗄️ Databases
+* 🔧 Software Development
+* 🐙 Git & GitHub
+
